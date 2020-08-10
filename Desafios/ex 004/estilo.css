@@ -1,0 +1,31 @@
+body{
+    background-color: mediumaquamarine;
+}
+header#titulo h1{
+    font-family: Arial, sans-serif;
+    font-size: 30pt;
+    text-align: center;
+    color:white;
+    text-shadow: 5px 5px 10px #606060;
+}
+input#botao{
+    display: block;
+    margin: auto;
+    size: 20pt;
+    padding: 10px;
+    font-family: Arial,sans-serif;
+    background-color: rgb(229, 255, 0);
+    border: 1px dashed black;
+    box-shadow: 1px 1px 5px #606060;
+}
+div#res{
+    color:white;
+    font-size: 15pt;
+    font-family: Arial, sans-serif;
+    padding: 5px;
+    width: 360px;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 10px;
+    background-color: rgb(8, 155, 253);
+}

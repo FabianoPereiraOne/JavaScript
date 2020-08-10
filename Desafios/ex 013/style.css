@@ -1,0 +1,42 @@
+body{
+    background-color: blue;
+}
+.corpo{
+    text-align: center;
+    background-color: white;
+    width: 550px;
+    margin: auto;
+    padding: 5px;
+}
+.itens h1{
+    font-family: Arial, sans-serif;
+    padding-top: -5px;
+    font-weight: bold;
+    font-size: 30pt;
+    margin-top: 0px;
+    color: rgb(255, 7, 7);
+    text-shadow: 1px 1px 0px black;
+}
+.button{
+    background: rgb(112, 245, 194);
+    border: none;
+    padding: 10px;
+    font-size: 15pt;
+    font-family: Arial, sans-serif;
+    color: rgb(6, 43, 255);
+    text-shadow: 1px 1px 0px black;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.resul{
+    font-family: Arial, sans-serif;
+    font-size: 15pt;
+    color: #606060;
+    margin-bottom: 5px;
+    text-align: left;
+}
+.resultado{
+    font-family: Arial, sans-serif;
+    font-size: 15pt;
+    color: #202020;
+}
